@@ -6,7 +6,7 @@ import { toast } from 'react-toastify'
 
 const Add = () => {
 
-    const url = 'http://localhost:1000';
+    const url = 'http://localhost:10000';
     const [image, setImage] = useState(false);
     const [data, setData] = useState({
         name: "",
