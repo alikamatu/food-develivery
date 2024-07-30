@@ -8,7 +8,7 @@ import {assets} from '../../assets/assets'
 
 const Order = () => {
 
-  const url = "http://localhost:4000"
+  const url = "https://food-develivery-backend.onrender.com"
 
   const [order, setOrder] = useState([]);
 
